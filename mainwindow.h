@@ -178,10 +178,6 @@ private:
     void PrintingLinesOfDocument();
 
 
-//????
-//void printCharacterOnFile_Version_two(int rs, int cs, int re, int ce, int counter);
-
-
 //Convert the result Image each Algorithm to a .dat files in order to be used by evaluator.
     void Create_dot_Dat_Files( QImage *IMAGE, QString Dir );
 
