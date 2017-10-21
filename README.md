@@ -13,9 +13,14 @@ The following image was used  as an example.
 
 X-Y cut has two parts:
 1) Finding Lines:Following the produced Image of the function.
+
 ![xy_cutlines](https://user-images.githubusercontent.com/32977750/31853312-1d498756-b68f-11e7-88dd-0d791ac8921a.JPG)
 
-2) Finding Words
+
+2) Finding Words:Following the produced Image of the function.
+
+![xy_cutwords](https://user-images.githubusercontent.com/32977750/31853338-86913de4-b68f-11e7-88ee-5ad0c42b5099.JPG)
+
 
 RLSA has also two parts:
 1) Horizontal RLSA
