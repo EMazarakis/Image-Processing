@@ -27,4 +27,7 @@ RLSA has also two parts:
 
 ![rlsalines](https://user-images.githubusercontent.com/32977750/31853390-210ffaf4-b690-11e7-90bc-40b4e2a33d55.JPG)
 
+
 2) Vertical RLSA: Following the produced Image of the function.
+
+![rlsa_words](https://user-images.githubusercontent.com/32977750/31853395-4cfba852-b690-11e7-9a2a-c82796b98d10.JPG)
