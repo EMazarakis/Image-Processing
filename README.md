@@ -30,4 +30,4 @@ RLSA has also two parts:
 
 2) Vertical RLSA: Following the produced Image of the function.
 
-![rlsa_words](https://user-images.githubusercontent.com/32977750/31853395-4cfba852-b690-11e7-9a2a-c82796b98d10.JPG)
+![rlsawords](https://user-images.githubusercontent.com/32977750/31853415-8b5f7506-b690-11e7-988b-a5b5b4a26b31.JPG)
