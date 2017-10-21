@@ -23,5 +23,8 @@ X-Y cut has two parts:
 
 
 RLSA has also two parts:
-1) Horizontal RLSA
-2) Vertical RLSA
+1) Horizontal RLSA: Following the produced Image of the function.
+
+![rlsalines](https://user-images.githubusercontent.com/32977750/31853390-210ffaf4-b690-11e7-90bc-40b4e2a33d55.JPG)
+
+2) Vertical RLSA: Following the produced Image of the function.
