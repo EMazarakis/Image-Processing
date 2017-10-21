@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\smoothing.o
+./debug\segmentation.o
+./debug\buttons.o
+./debug\image_processing.o
+./debug\file_tab.o
+./debug\characters.o
+./debug\smoothing_v_2.o
+./debug\moc_mainwindow.o
+);

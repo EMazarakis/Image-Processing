@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\smoothing.o
+./release\segmentation.o
+./release\buttons.o
+./release\image_processing.o
+./release\file_tab.o
+./release\characters.o
+./release\smoothing_v_2.o
+./release\moc_mainwindow.o
+);
