@@ -13,6 +13,8 @@ The following image was used  as an example.
 
 X-Y cut has two parts:
 1) Finding Lines
+
+![findinglinesimage](https://user-images.githubusercontent.com/32977750/31853286-b376f8fe-b68e-11e7-9425-dbc49bd0793d.JPG)
 2) Finding Words
 
 RLSA has also two parts:
