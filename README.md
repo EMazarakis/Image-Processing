@@ -12,5 +12,5 @@ X-Y cut has two parts:
 2) Finding Words
 
 RLSA has also two parts:
-1)Horizontal RLSA
-2)Vertical RLSA
+1) Horizontal RLSA
+2) Vertical RLSA
